@@ -9,7 +9,7 @@ Release: %{release}
 Source0: %{name}-%{version}.tar.gz
 License: GPLv2.1
 Group: File tools 
-Url: http://searchmonkey.embeddediq.com
+Url: https://searchmonkey.embeddediq.com
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 
